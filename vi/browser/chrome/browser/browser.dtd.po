@@ -909,7 +909,7 @@ msgstr "l"
 
 #: urlbar.placeholder2
 msgid "Search or enter address"
-msgstr "Tìm hoặc nhập địa chỉ"
+msgstr "Nhập địa chỉ hoặc từ khóa tìm kiếm"
 
 #: urlbar.accesskey
 msgctxt "urlbar.accesskey"
