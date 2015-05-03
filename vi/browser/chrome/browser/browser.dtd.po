@@ -770,7 +770,7 @@ msgstr "Tù&y chỉnh"
 #: clearRecentHistory.label
 msgctxt "clearRecentHistory.label"
 msgid "Clear Recent History…"
-msgstr "Xóa nhật ký duyệt web gần đây…"
+msgstr "Xóa dữ liệu gần đây…"
 
 #: privateBrowsingCmd.commandkey
 msgctxt "privateBrowsingCmd.commandkey"
@@ -818,7 +818,7 @@ msgstr "Khôi phục phiên làm việc trước"
 #: showAllHistoryCmd2.label
 msgctxt "showAllHistoryCmd2.label"
 msgid "Show All History"
-msgstr "Toàn bộ nhật ký duyệt web"
+msgstr "Toàn bộ nhật ký"
 
 #: showAllHistoryCmd.commandkey
 msgid "H"
@@ -848,12 +848,12 @@ msgstr "Nhật ký duyệt web"
 #: appMenuHistory.showAll.label
 msgctxt "appMenuHistory.showAll.label"
 msgid "Show All History"
-msgstr "Toàn bộ nhật ký duyệt web"
+msgstr "Toàn bộ nhật ký"
 
 #: appMenuHistory.clearRecent.label
 msgctxt "appMenuHistory.clearRecent.label"
 msgid "Clear Recent History…"
-msgstr "Xóa nhật ký duyệt web gần đây…"
+msgstr "Xóa dữ liệu gần đây…"
 
 #: appMenuHistory.restoreSession.label
 msgctxt "appMenuHistory.restoreSession.label"
@@ -1844,7 +1844,7 @@ msgstr "Xóa!"
 
 #: panicButton.thankyou.msg1
 msgid "Your recent history is cleared."
-msgstr "Nhật ký duyệt web gần đây của bạn đã bị xóa."
+msgstr "Dữ liệu gần đây đã bị xóa."
 
 #: panicButton.thankyou.msg2
 msgid "Safe browsing!"
