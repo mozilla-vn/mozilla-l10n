@@ -365,12 +365,12 @@ msgstr "Đánh dấu tất cả các tab…"
 
 #: showAllBookmarks2.label
 msgid "Show All Bookmarks"
-msgstr "Hiển thị tất cả các trang đánh dấu"
+msgstr "Các trang đã đánh dấu"
 
 #: unsortedBookmarksCmd.label
 msgctxt "unsortedBookmarksCmd.label"
 msgid "Unsorted Bookmarks"
-msgstr "Các đánh dấu chưa sắp xếp"
+msgstr "Các đánh dấu chưa phân loại"
 
 #: bookmarksToolbarChevron.tooltip
 msgid "Show more bookmarks"
