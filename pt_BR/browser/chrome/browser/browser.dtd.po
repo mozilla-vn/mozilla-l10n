@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-30 19:16+0000\n"
-"PO-Revision-Date: 2015-04-30 14:40+0000\n"
+"PO-Revision-Date: 2015-05-05 00:39+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Pootle 2.5.1\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
-"X-POOTLE-MTIME: 1430404827.000000\n"
+"X-POOTLE-MTIME: 1430786366.000000\n"
 
 #. This will be appended to the window's title
 #. inside the private browsing mode
@@ -205,11 +205,11 @@ msgstr "&Duplicar aba"
 #. These should match what Safari and other Apple applications use on OS X Lion.
 #: enterFullScreenCmd.label enterFullScreenCmd.accesskey
 msgid "Enter &Full Screen"
-msgstr "En&trar em tela cheia"
+msgstr "En&trar em tela inteira"
 
 #: exitFullScreenCmd.label exitFullScreenCmd.accesskey
 msgid "Exit &Full Screen"
-msgstr "Sair da &tela cheia"
+msgstr "Sair da &tela inteira"
 
 #: fullScreenCmd.label fullScreenCmd.accesskey
 msgctxt "fullScreenCmd.label fullScreenCmd.accesskey"
@@ -1098,7 +1098,6 @@ msgstr "Sal&var como…"
 
 #. alternate for content area context menu
 #: savePageCmd.accesskey2
-#, fuzzy
 msgctxt "savePageCmd.accesskey2"
 msgid "P"
 msgstr "P"
@@ -1241,7 +1240,6 @@ msgid "Hide &Controls"
 msgstr "Ocultar co&ntroles"
 
 #: videoFullScreen.label videoFullScreen.accesskey
-#, fuzzy
 msgctxt "videoFullScreen.label videoFullScreen.accesskey"
 msgid "&Full Screen"
 msgstr "&Tela inteira"
@@ -1740,11 +1738,10 @@ msgid "&Disable protection for this site"
 msgstr "&Desativar proteção para este site"
 
 #: trackingContentBlocked.block.label trackingContentBlocked.block.accesskey
-#, fuzzy
 msgctxt ""
 "trackingContentBlocked.block.label trackingContentBlocked.block.accesskey"
 msgid "&Enable protection"
-msgstr "&Ativar proteção"
+msgstr "Ativar prot&eção"
 
 #: trackingContentBlocked.disabled.message
 msgid "Tracking protection is disabled"
@@ -1874,7 +1871,6 @@ msgid "Kill &Plugin"
 msgstr "Interromper &plugin"
 
 #: processHang.terminateProcess.label processHang.terminateProcess.accessKey
-#, fuzzy
 msgid "&Kill Web Process"
 msgstr "Parar processo &web"
 

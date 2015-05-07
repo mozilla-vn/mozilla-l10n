@@ -4,64 +4,68 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-26 14:48+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-05-06 22:13+0000\n"
+"Last-Translator: Juan Esteban <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cak\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Pootle 2.5.1\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
+"X-POOTLE-MTIME: 1430950437.000000\n"
 
 #. This Source Code Form is subject to the terms of the Mozilla Public
 #. - License, v. 2.0. If a copy of the MPL was not distributed with this
 #. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #: updateWizard.title
 msgid "Software Update"
-msgstr ""
+msgstr "K'exoj ruwäch ri kema'"
 
 #: checking.title
-#, fuzzy
 msgid "Checking for Updates"
-msgstr "Kijunamaxik taq jaloj"
+msgstr "Tajin ninik'öx ri taq k'exoj ruwäch"
 
 #: updateCheck.label
 msgid "Looking for newer versions of &brandShortName;…"
-msgstr ""
+msgstr "Tajin nikanöx ri k'ak'a' ruwäch &brandShortName;…"
 
 #: pluginupdatesfound.title
 msgid "Found Updates for Plugins"
-msgstr ""
+msgstr "Taq k'exoj ruwäch pluyin xe'ilitäj "
 
 #: pluginupdatesfound.label
 msgid "Newer versions of one or more of your plugins were found."
-msgstr ""
+msgstr "Xe'ilitäj k'ak'a' taq ruwäch kichin ri jun o ch'aqa' chik taq apluyin."
 
 #: pluginupdateslink.label
 msgid "See how to upgrade your plugins."
-msgstr ""
+msgstr "Tatz'eta' achike rub'eyal nak'ëx kiwäch ri taq apluyin."
 
 #: noupdatesfound.title
 msgid "No Updates Found"
-msgstr ""
+msgstr "Majun taq k'exoj ruwäch xe'ilitäj "
 
 #: noupdatesautoenabled.intro
 msgid ""
 "There are no updates available. &brandShortName; will check \n"
 "periodically for updates."
 msgstr ""
+"Majun k'exoj ruwäch e k'o. &brandShortName; junelïk xtunik'ola' we e k'o taq "
+"k'exoj ruwäch."
 
 #: noupdatesautodisabled.intro
 msgid ""
 "There are no updates available. Please check again later or enable \n"
 "&brandShortName;'s automatic update checking."
 msgstr ""
+"Majun taq k'exoj ruwäch e k'o. Takanoj jun chik q'ij, ütz chuqa' natzïj \n"
+"ri ruyonil taq k'exoj ruwäch ri &brandShortName;."
 
 #: manualUpdate.title
 msgid "Unable to Update"
-msgstr ""
+msgstr "Man nitikïr ta nuk'ëx ruwäch"
 
 #: manualUpdate.desc
 msgid ""
@@ -71,20 +75,29 @@ msgid ""
 "system administrator, or try again from an account that has permission to \n"
 "install software on this computer."
 msgstr ""
+"Niq'alajin jun k'exoj ruwäch, ri chilab'en richin chajinïk chuqa' richin "
+"nik'ase', xa xe chi  \n"
+"majun kiya'on qij chawe pa q'inoj richin nayäk qa. Kab'etzijon  \n"
+"rik'in ri anuk'samajel richin q'inoj, chuqa' ütz natojtob'ej pa jun chik "
+"retal taqoya'l ri  \n"
+"ya'on q'ij chi re' richin nuyäk ri kema' pa re samajib'äl re'."
 
 #: manualUpdate.space.desc
 msgid ""
 "A recommended security and stability update is available, but you do \n"
 "not have enough space to install it."
 msgstr ""
+"Niwachin pe jun k'exoj ruäch, ri chilab'en richin chajinïk chuqa' richin "
+"nik'ase', \n"
+"xa xe chi nub'än ta rupam rujolom richin niyak chi ronojel."
 
 #: manualUpdateGetMsg.label
 msgid "You can always get the latest version of &brandShortName; at:"
-msgstr ""
+msgstr "Junelïk yatikïr nawïl ri ruk'isib'äl ruwäch ri &brandShortName; pa:"
 
 #: unsupported.title
 msgid "System Unsupported"
-msgstr ""
+msgstr "Man nuk'äm ta ri' ri q'inoj"
 
 #: unsupported.label
 msgid ""
@@ -92,82 +105,91 @@ msgid ""
 "supported on your system. Please upgrade your system, then try again. \n"
 "You will not see this notice again, but you can"
 msgstr ""
+"Ri &brandShortName; man k'exon ta ruwäch, xa xe chi ri ruk'isib'äl ruwäch "
+"man nuk'äm ta ri' \n"
+"rik'in ri aq'inoj. Tak'exa' ruwäch ri aq'inoj k'a ri' tatojtob'ej chik. \n"
+"Man xtatz'ët ta chik re rutzijol re', po yatikïr"
 
 #: unsupportedLink.label
-#, fuzzy
 msgid "learn more."
-msgstr "Retamaxik ch'aqa' chik"
+msgstr "tawetamaj ch'aqa' chik taq etamab'äl."
 
 #: incompatibleCheck.title
-#, fuzzy
 msgid "Checking Add-on Compatibility"
-msgstr "Rujunamaxik kijunamil taq rutz'aqat…"
+msgstr "Runik'oxik ri we nikik'äm ki' ri taq tz'aqat"
 
 #: incompatibleCheck.label
 msgid "Looking for newer versions of your add-ons…"
-msgstr ""
+msgstr "Tajin nikanöx ch'aqa' chik kiwäch ri taq tz'aqat…"
 
 #: clickHere.label
 msgid "View more information about this update"
-msgstr ""
+msgstr "Titz'et ch'aqa' chik etamab'äl chi rij re k'exoj ruwäch re'"
 
 #: evangelism.desc
 msgid ""
 "It is strongly recommended that you apply this \n"
 "update for &brandShortName; as soon as possible."
 msgstr ""
+"Nichilab'ëx chi tiyak re  \n"
+"Ruk'exoj ruwäch ri &brandShortName; pa aninäq."
 
 #: license.instructions
 msgid ""
 "If you agree to the terms of this agreement, click I Agree \n"
 "below to continue installing this update."
 msgstr ""
+"We ütz yetz'et ri rojqanem re jun tunuj na'oj re', tapitz'a' pa Ütz nintz'et "
+"ri tunuj na'oj \n"
+"richin nitikïr chik el rik'in ri ruyakik ri k'exoj ruwäch."
 
 #: license.titleText
 msgid "Software License Agreement"
-msgstr ""
+msgstr "Rutunuj Na'oj ri rya'öl q'ij kema'"
 
 #: license.introText
 msgid "Terms and conditions for using this software."
-msgstr ""
+msgstr "Taq ojqanem chuqa' achike nuk'äm pe ri rokisaxik re kema' re'."
 
 #: license.instructionText
 msgid ""
 "Please read the following license agreement. Use the scroll bar to view the "
 "rest of this agreement."
 msgstr ""
+"Tasik'ij re jun tunuj na'oj re' richin ya'öl q'ij. Tawokisaj ri ruche'el "
+"richin natz'ët ri ch'aqa' chik taq rucholajem tzij."
 
 #: license.accept
 msgid "I accept the terms of the License Agreement"
-msgstr ""
+msgstr "Yenk'üt ri taq rojqanem ri tunuj na'oj richin niya' q'ij"
 
 #: license.accept.accesskey
 msgid "c"
-msgstr ""
+msgstr "C"
 
 #: license.decline
 msgid "I do NOT accept the terms of the License Agreement"
-msgstr ""
+msgstr "MANÄQ man yenk'ül ta ri taq rojqanem ri tunuj na'oj richin niya' q'ij"
 
 #: license.decline.accesskey
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #: incompatibleList.title
 msgid "Incompatible Add-ons Found"
-msgstr ""
+msgstr "E k'o taq tz'aqat ri man nikik'äm ta ki'"
 
 #: downloadPage.title
 msgid "Downloading &brandShortName;"
-msgstr ""
+msgstr "Tajin niqasäx &brandShortName;"
 
 #: downloading.intro
 msgid "Downloading the update…"
-msgstr ""
+msgstr "Tajin nuqasaj k'exoj ruwäch…"
 
 #: connecting.label
 msgid "Connecting to the update server…"
-msgstr ""
+msgstr "Tajin nok pa ruk'u'x samaj kichin ri taq k'exoj ruwäch…"
 
 #: verificationFailedText.label
 msgid ""
@@ -175,39 +197,47 @@ msgid ""
 "incremental update it downloaded, so it is now downloading \n"
 "the complete update package."
 msgstr ""
+"&brandShortName; man xtikïr ta xunik'oj ri rutzil ri  \n"
+"xqasäx yan ri nimirisan k'exoj ruwäch, wakami xtiqasäx  \n"
+"chijun ri pisoj k'exoj ruwäch."
 
 #: viewDetails.tooltip
 msgid "View details for this update"
-msgstr ""
+msgstr "Ketz'et ri taq rub'anikil re k'exoj ruwäch re'"
 
 #: details.link
-#, fuzzy
 msgctxt "details.link"
 msgid "Details"
-msgstr "Kitzijol…"
+msgstr "Taq rub'anikil"
 
 #: error.title
-#, fuzzy
 msgid "Update Failed"
-msgstr "Man xuchäp ta ri jaloj."
+msgstr "Man xtikïr ta ri k'exoj ruwäch."
 
 #: error.label
 msgid ""
 "There were problems checking for, downloading, or installing this \n"
 "update. &brandShortName; could not be updated because:"
 msgstr ""
+"Xk'oje' k'ayetal toq xnik'öx, xqasäx o xyak re  \n"
+"k'exoj ruwäch. &brandShortName; man xtikïr ta xuk'ëx ruwäch ruma:"
 
 #: errorManual.label
 msgid ""
 "You can update &brandShortName; manually by visiting this link \n"
 "and downloading the latest version:"
 msgstr ""
+"Ütz nik'ex ruwäch ri &brandShortName; chi q'ab'aj we yab'etz'eton pa re jun "
+"ximöy \n"
+"chuqa' we naqasaj ri ruk'isib'äl ruwäch:"
 
 #: errorpatching.intro
 msgid ""
 "The partial Update could not be applied. \n"
 "&brandShortName; will try again by downloading a complete Update."
 msgstr ""
+"Man xtikïr ta xsamajïx nik'aj k'exoj ruwäch.  \n"
+"&brandShortName; xtutojtob'ej chik toq xtuqasaj chijun ri k'exoj ruwäch."
 
 #: genericBackgroundError.label
 msgid ""
@@ -215,22 +245,30 @@ msgid ""
 "Please \n"
 "make sure that you have the latest version of &brandShortName; from:"
 msgstr ""
+"&brandShortName; man nitikïr ta nuya' retal we wachel jun k'exoj ruwäch. "
+"Tab'ana' utzil, \n"
+"tajikib'a' awi' chi k'o awik'in ri ruk'isib'äl ruwäch ri &brandShortName; pa:"
 
 #: errorCertAttrNoUpdate2.label
 msgid ""
 "Something is preventing &brandShortName; from updating securely. \n"
 "Please make sure that you have the latest version of &brandShortName; from:"
 msgstr ""
+"K'o jun ri man nuya' ta q'ij chi re ri &brandShortName; ütz nuk'ëx ruwäch. \n"
+"Tab'ana' utzil, tajikib'a' awi' chi k'o awik'in ri ruk'isib'äl ruwäch ri "
+"&brandShortName; pa: "
 
 #: errorCertAttrHasUpdate.label
 msgid ""
 "Something is trying to trick &brandShortName; into accepting an \n"
 "insecure update. Please contact your network provider and seek help."
 msgstr ""
+"K'o jun ri nutojtob'ej nuq'öl ri &brandShortName; richin tuk'ulu' jun \n"
+"itzel k'exoj ruwäch. Kab'etzijon rik'in ri aya'öl b'ey chuqa' takanoj ato'ik."
 
 #: finishedPage.title
 msgid "Update Ready to Install"
-msgstr ""
+msgstr "Ütz chik ri k'exoj ruwäch richin niyak"
 
 #: finishedPage.text
 msgctxt "finishedPage.text"
@@ -238,17 +276,22 @@ msgid ""
 "The update will be installed the next time &brandShortName; starts. You \n"
 "can restart &brandShortName; now, or continue working and restart later."
 msgstr ""
+"Ri k'exoj ruwäch xtuyäk ri' toq xtatikirisaj chik ri &brandShortName;. Ütz "
+"natikirisaj chik \n"
+" &brandShortName; wakami chanin, chuqa' ütz yasamäj k'a ri' ütz nitikirisaj "
+"jub'a' chik na."
 
 #: finishedBackgroundPage.text
 msgid ""
 "A security and stability update for &brandShortName; has been \n"
 "downloaded and is ready to be installed."
 msgstr ""
+"Xqasäx jun k'exoj ruwäch richin chajinïk chuqa' richin chi k'äs \n"
+"ri &brandShortName; chuqa' ütz chik richin niyak chupam."
 
 #: finishedBackground.name
-#, fuzzy
 msgid "Update:"
-msgstr "Tik'ex"
+msgstr "K'exoj ruwäch:"
 
 #. This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties.
 #: finishedBackground.more
@@ -257,29 +300,32 @@ msgid ""
 "The update will be installed the next time &brandShortName; starts. You \n"
 "can restart &brandShortName; now, or continue working and restart later."
 msgstr ""
+"Ri k'exoj ruwäch xtiyak chupam toq xtatikirisaj chik ri &brandShortName;. "
+"Ütz natikirisaj chik ri \n"
+"&brandShortName; wakami chanin, chuqa' ütz yasamäj k'a ri' ütz natikirisaj "
+"jub'a' chik na."
 
 #: installed.title
 msgid "Update Installed"
-msgstr ""
+msgstr "Xyak ri k'exoj ruwäch"
 
 #: installed.intro
 msgid "The update was successfully installed."
-msgstr ""
+msgstr "Ütz xyake' chupam ri k'exoj ruwäch."
 
 #: whatsnew.label
 msgid "Read more about what's new…"
-msgstr ""
+msgstr "Tisik'ïx ch'aqa' chik chi kij ri k'ak'a' taq…"
 
 #: update.details.label
-#, fuzzy
 msgctxt "update.details.label"
 msgid "Details"
-msgstr "Kitzijol…"
+msgstr "Taq b'anikil"
 
 #: update.installedOn.label
 msgid "Installed on:"
-msgstr ""
+msgstr "Xyak pa:"
 
 #: update.status.label
 msgid "Status:"
-msgstr ""
+msgstr "B'anikil:"

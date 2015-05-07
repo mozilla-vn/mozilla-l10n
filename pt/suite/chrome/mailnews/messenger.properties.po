@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-18 02:52+0000\n"
-"PO-Revision-Date: 2015-05-02 17:00+0000\n"
+"PO-Revision-Date: 2015-05-06 09:36+0000\n"
 "Last-Translator: Sérgio <smarquespt@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Pootle 2.5.1\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
-"X-POOTLE-MTIME: 1430586022.000000\n"
+"X-POOTLE-MTIME: 1430904983.000000\n"
 
 #. # The following are used by the messenger application
 #. #LOCALIZATION NOTE(statusMessage): Do not translate the words
@@ -485,7 +485,7 @@ msgstr "STARTTLS"
 
 #: smtpServer-ConnectionSecurityType-3
 msgid "SSL/TLS"
-msgstr "SMTP-sobre-SSL"
+msgstr "SSL/TLS"
 
 #: smtpServers-confirmServerDeletionTitle
 msgid "Delete Server"
@@ -745,7 +745,7 @@ msgstr "Pessoal"
 
 #: mailnews.labels.description.4
 msgid "To Do"
-msgstr "A fazer"
+msgstr "Pendente"
 
 #: mailnews.labels.description.5
 msgid "Later"
@@ -829,7 +829,7 @@ msgstr "UTF-8"
 
 #: mailnews.view_default_charset
 msgid "ISO-8859-1"
-msgstr "UTF-8"
+msgstr "ISO-8859-1"
 
 #. # whether to generate display names in last first order
 #. # LOCALIZATION NOTE(mail.addr_book.displayName.lastnamefirst):
@@ -1116,8 +1116,7 @@ msgstr "Confirmar"
 
 #: confirmResetJunkTrainingText
 msgid "Are you sure you want to reset the adaptive filter training data?"
-msgstr ""
-"Tem a certeza que deseja reiniciar os dados do filtro adaptativo de treino?"
+msgstr "Tem a certeza que deseja repor os dados do filtro adaptativo?"
 
 #. # for the virtual folder list dialog title
 #. # %S is the name of the saved search folder

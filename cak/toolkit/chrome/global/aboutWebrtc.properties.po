@@ -7,16 +7,17 @@ msgstr ""
 "Project-Id-Version: l 10n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-30 19:16+0000\n"
-"PO-Revision-Date: 2015-03-30 19:16+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-05-03 18:16+0000\n"
+"Last-Translator: Juan Esteban <ajtzibsyan@yahoo.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: cak\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"X-Generator: Pootle 2.5.1\n"
 "X-Accelerator-Marker: &\n"
 "X-Merge-On: location\n"
+"X-POOTLE-MTIME: 1430676970.000000\n"
 
 #. # LOCALIZATION NOTE (document_title, cannot_retrieve_log):
 #. # The text "WebRTC" is a proper noun and should not be translated.
@@ -86,18 +87,18 @@ msgstr ""
 #. # should not normally be translated and is used as a data label.
 #: peer_connection_id_label
 msgid "PeerConnection ID"
-msgstr ""
+msgstr "PeerConnection nimaläj b'i'aj"
 
 #. # LOCALIZATION NOTE (sdp_heading, local_sdp_heading, remote_sdp_heading):
 #. # "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 #. # See http://wikipedia.org/wiki/Session_Description_Protocol
 #: sdp_heading
 msgid "SDP"
-msgstr ""
+msgstr "SDP"
 
 #: local_sdp_heading
 msgid "Local SDP"
-msgstr ""
+msgstr "Aj wawe' SDP"
 
 #: remote_sdp_heading
 msgid "Remote SDP"
@@ -107,8 +108,9 @@ msgstr ""
 #. # Real-time Transport Protocol, an IETF specification, and should not
 #. # normally be translated. "Stats" is an abbreviation for Statistics.
 #: rtp_stats_heading
+#, fuzzy
 msgid "RTP Stats"
-msgstr ""
+msgstr "RTP"
 
 #. # LOCALIZATION NOTE (ice_state, ice_stats_heading): "ICE" is an abbreviation
 #. # for Interactive Connectivity Establishment, which is an IETF protocol,
@@ -155,7 +157,7 @@ msgstr ""
 
 #: remote
 msgid "remote"
-msgstr ""
+msgstr "näj"
 
 #. # LOCALIZATION NOTE (nominated): This adjective is used to label a table column.
 #. # Cells in this column contain the localized javascript string representation of "true"
@@ -168,7 +170,6 @@ msgstr ""
 #. # Cells in this column contain the localized javascript string representation of "true"
 #. # or are left blank. This represents an attribute of an ICE candidate.
 #: selected
-#, fuzzy
 msgid "Selected"
 msgstr "cha'on"
 
